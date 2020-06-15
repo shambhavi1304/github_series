@@ -1,3 +1,5 @@
+Name : Shambhavi Mishra
+Day 1
 
 Ques 1. What do you mean by git and GitHub?
 Ans  1. 
@@ -70,5 +72,29 @@ For any changes ,select the edit option then press commit changes.
 For checking the history, select "History".
 - Commit Hash : A unique identifier for this particular commit.
 
+Day 2
 
+Hello People!
 
+I am Shambhavi Mishra from DIT University.
+This is my Day-2 task.
+1. Share the link to the GitHub repository you have created.
+ https://github.com/shambhavi1304/github_series
+2. Your README should contain a brief about the project and should be written in markdown language.
+Drop the answer to the following questions
+a. How git workflow works?
+It is basically a recommendation to use git efficiently.
+b. What're the different stages of a git project as commit, add?
+The stages are as follows:
+Modify
+commit
+Stage
+c. Is it possible to do a git commit before git add . if you have made any changes? Explain why?
+Yes, it is possible to do a git commit before git add. I tried various combinations.
+d. Why is git diff used?
+  It is used to check the differences if there are any that may have still left after making changes to the file.
+e. Can we leave the commit message as blank?
+It is a good practice to give a non-empty commit message.
+Although, it can be left blank.
+
+The changes are been done to differetiate beteen master and branch.
